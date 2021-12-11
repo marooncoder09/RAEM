@@ -30,7 +30,7 @@ File: Layout CSS
 	top: 0;
 	right: 0;
 	box-sizing: border-box;
-
+	padding: 0rem 1rem;
 	left: 0;
 	z-index: 1030;
 }
