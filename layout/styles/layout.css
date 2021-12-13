@@ -1,13 +1,5 @@
 @charset "utf-8";
-/*
-Template Name: Yeinydd
-Author: <a href="https://www.os-templates.com/">OS Templates</a>
-Author URI: https://www.os-templates.com/
-Copyright: OS-Templates.com
-Licence: Free to use under our free template licence terms
-Licence URI: https://www.os-templates.com/template-terms
-File: Layout CSS
-*/
+
 
 @import url("fontawesome-free/css/fontawesome-all.min.css");
 @import url("framework.css");
@@ -197,7 +189,7 @@ This gives a smooth transition to "ALL" elements used in the layout - other than
 If you don't want it to fade all elements, you have to list the ones you want to be faded individually
 Delete it completely to stop fading
 --------------------------------------------------------------------------------------------------------------- */
-*, *::before, *::after{transition:all .3s ease-in-out;}
+/* *, *::before, *::after{transition:all .3s ease-in-out;} */
 #mainav form *{transition:none !important;}
 
 
@@ -336,7 +328,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#829DA2;}
 /* Rows */
 .row0, .row0 a{}
 .row1, .row1 a{}
-.row2{color:#474747; background-color:#F4C430;}
+.row2{color:#474747; background-color:whitesmoke;}
 .row3{color:#474747; background-color:#FFFFFF;}
 .row4{color:#C1C2C4; background-color:#323639;}
 .row5, .row5 a{color:#C1C2C4; background-color:#2A2D34;}
