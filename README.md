@@ -1,1 +1,1 @@
-# Centre for Rapid and Alternative Energy Mobility (RAEM) of Gautam Buddha University is dedicated to the diploma and masters degree program as well as to do collaborative research and research on contract in the areas of rapid mobility like metro rail engineering & management and alternative energy mobility in the centre. The alternative energy mobility proposes to encompass hydrogen powered busses and trains & even magnetic levitation. The specialized courses also include railway signaling, Telecom and RAMS
+
